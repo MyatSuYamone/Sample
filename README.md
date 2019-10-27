@@ -1,5 +1,0 @@
-# Pyhton
-
-## Python
-
-### Python
